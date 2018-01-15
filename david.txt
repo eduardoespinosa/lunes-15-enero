@@ -11,4 +11,4 @@ otro cambio
 6
 
 
-7
+7 Aplico mi cambio para generar un conflicto
